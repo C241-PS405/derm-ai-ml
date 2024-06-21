@@ -1,5 +1,5 @@
 # Derm.AI Machine Learning
-<img src="https://github.com/C241-PS405/derm-ai-ml/tree/main/Assets/Logo.png" width="300" height="300">
+<img src="Assets/Logo.png" width="300" height="300"> <br>
 |          Nama         | Bangkit-ID |       Path       |
 |:---------------------:|:----------:|:----------------:|
 |  I Gusti Agung Krisna Satya Wikrama  |  M007D4KY1724  | Machine Learning |
